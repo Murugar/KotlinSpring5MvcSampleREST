@@ -1,0 +1,25 @@
+build/
+.gradle/
+bin/
+cache/
+out/
+
+# Eclipse 
+.settings/
+.classpath
+.project
+
+# webdev
+npm-debug.log
+node_modules/
+coverage/
+
+# vim
+*.swp
+
+# idea
+*.idea/
+*.iml
+*.ipr
+*.iws
+/target/
